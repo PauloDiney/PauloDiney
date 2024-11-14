@@ -76,8 +76,6 @@ Me chamo Paulo Diney da Silva Martins, tenho 18 anos e sou natural de São Paulo
 
 ### 📊 Estatísticas
 
-</br>
-
 <p>
   <img 
     align="left" 
