@@ -1,5 +1,5 @@
 ## 👨‍💻 Paulo Diney 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
 ---
 
