@@ -3,7 +3,11 @@
 
 ---
 
-Me chamo Paulo Diney da Silva Martins, tenho 18 anos e sou natural de São Paulo, conclui o ensino médio na ETEC, com o curso de técnico em desenvolvimento de sistemas. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na FATEC-Presidente Prudente. Gosto muito de tecnologia e jogos, pretendo ser um futuro Desenvolvedor de jogos!!
+Olá! Me chamo Paulo Diney da Silva Martins e sou natural de São Paulo. Concluí o ensino médio na ETEC junto ao curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Presidente Prudente.
+
+Sou apaixonado por tecnologia e programação, sempre buscando aprender novas habilidades e aprimorar meus conhecimentos na área de desenvolvimento. Tenho experiência com HTML, CSS, JavaScript, React e Git/GitHub. Além disso, já atuei em projetos acadêmicos, desenvolvendo soluções inovadoras para desafios reais.
+
+Estou sempre aberto a novas oportunidades e colaborações! 🚀
 
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulodiney/
  )
