@@ -214,7 +214,7 @@ Desenvolvendo APIs robustas com PHP/Laravel e explorando Node.js
   
   ## 💼 Projetos em Destaque
   
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloDiney&repo=Projeto-3D_1&theme=tokyonight&hide_border=true)](https://github.com/PauloDiney/NOME_DO_REPO_1)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloDiney&repo=Projeto-3D_1&theme=tokyonight&hide_border=true)](https://github.com/PauloDiney/Projeto-3D)
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloDiney&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/PauloDiney/NOME_DO_REPO_2)
   
 </div>
