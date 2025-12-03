@@ -1,51 +1,31 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Paulo+Diney!;Desenvolvedor+Front-End;Estudante+de+ADS+na+FATEC" alt="Typing SVG" />
-  </a>
-</div>
+# Paulo Diney 👨‍💻
 
-<div align="center">
-  <a href="https://www.instagram.com/paulodiney/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a> 
-  <a href="https://www.linkedin.com/in/paulo-martins-531519239/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:seu_email_aqui@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+**`Desenvolvedor Front-End | Estudante de ADS @ FATEC`**
 
-<br/>
-
-### 👨‍💻 Sobre Mim
-
-> 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na FATEC Presidente Prudente.
-> 🏫 Formado em Desenvolvimento de Sistemas pela ETEC.
-
-Sou apaixonado por tecnologia e focado no ecossistema **Front-End**. Busco sempre criar interfaces intuitivas e performáticas, mas também tenho conhecimento no Back-End (PHP/Laravel), o que me dá uma visão completa do desenvolvimento.
-
-- 🔭 Atualmente trabalhando em: **Projetos Acadêmicos e Pessoais**
-- 🌱 Aprendendo atualmente: **React avançado e Arquitetura de Software**
-- ⚡ Curiosidade: Adoro transformar café em código! ☕
+Natural de São Paulo e atualmente em Presidente Prudente. Minha jornada começou na ETEC e continua na FATEC, sempre focado em criar soluções web inovadoras. Tenho facilidade com interfaces (UI) e lógica de programação.
 
 ---
 
-### 🚀 Stack Tecnológica
+### 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,bulma,php,laravel,git,github,figma&perline=7" />
-</div>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-End** | HTML5, CSS3, JavaScript (ES6+), React, Vue.js |
+| **Frameworks CSS** | Bootstrap, Bulma, Tailwind |
+| **Back-End** | PHP, Laravel |
+| **Ferramentas** | Git, GitHub, Figma, VS Code |
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloDiney&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDiney&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+![Paulo's Stats](https://github-readme-stats.vercel.app/api?username=PauloDiney&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloDiney&theme=tokyonight" alt="PauloDiney" />
-</div>
+---
+
+### 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/paulo-martins-531519239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo martins" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/paulodiney/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paulodiney" height="30" width="40" /></a>
+</p>
