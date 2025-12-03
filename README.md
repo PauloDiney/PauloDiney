@@ -170,7 +170,7 @@ Desenvolvendo APIs robustas com PHP/Laravel e explorando Node.js
 
 <div align="center">
   
-  ## 🐍 Contribuições
+
 
 ![Snake animation](https://raw.githubusercontent.com/PauloDiney/PauloDiney/output/snake.svg)
   
