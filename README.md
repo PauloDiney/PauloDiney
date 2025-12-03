@@ -40,30 +40,91 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
 
-🌍 **Localização:** São Paulo, Brasil 🇧🇷
+<table>
+<tr>
+<td width="50%">
 
-🎓 **Formação:**
-- 📚 Desenvolvimento de Sistemas - ETEC
-- 🎯 Análise e Desenvolvimento de Sistemas - FATEC
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
-💼 **Áreas de Atuação:**
-- 🎨 Front-End Development
-- 🖌️ UI/UX Design
-- ⚙️ Back-End Development
+</td>
+<td width="50%">
 
-💡 **Paixão:** Unir código e design para criar experiências únicas
+### 🚀 Paulo Diney
 
-🎯 **Objetivo:** Transformar ideias em interfaces intuitivas e funcionais
+Olá! Sou natural de **São Paulo** 🇧🇷, formado em **Desenvolvimento de Sistemas** pela ETEC e atualmente cursando **Análise e Desenvolvimento de Sistemas** na FATEC Presidente Prudente.
 
-🎮 **Hobbies:** Coding • Design • Aprender novas tecnologias
+<br/>
 
-🚀 **Status:** Sempre em busca de novos desafios
+```typescript
+interface Developer {
+  nome: string;
+  localização: string;
+  áreas: string[];
+  foco: string;
+}
 
-<br clear="right"/>
+const paulo: Developer = {
+  nome: "Paulo Diney",
+  localização: "São Paulo, Brasil",
+  áreas: ["Front-End", "UI/UX", "Back-End"],
+  foco: "Criar experiências digitais únicas"
+};
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 💼 Minha Jornada
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+
+**Front-End Developer**
+
+Criando interfaces modernas e responsivas com React, Vue e as melhores práticas de desenvolvimento
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80"/>
+
+**UI/UX Designer**
+
+Projetando experiências intuitivas e visualmente agradáveis usando Figma e princípios de design
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80"/>
+
+**Back-End Enthusiast**
+
+Desenvolvendo APIs robustas com PHP/Laravel e explorando Node.js
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Filosofia de Trabalho
+
+| 💡 | 🎨 | 🔧 | 🚀 |
+|:---:|:---:|:---:|:---:|
+| **Inovação** | **Criatividade** | **Qualidade** | **Evolução** |
+| Sempre buscando novas soluções | Design que conta histórias | Código limpo e eficiente | Aprendizado contínuo |
+
+</div>
 
 ---
 
@@ -111,11 +172,7 @@
   
   ## 🐍 Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PauloDiney/PauloDiney/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloDiney/PauloDiney/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PauloDiney/PauloDiney/output/github-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/PauloDiney/PauloDiney/output/snake.svg)
   
 </div>
 
