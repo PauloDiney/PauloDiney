@@ -38,21 +38,7 @@
   
   <br/><br/>
   
-  <a href="https://www.linkedin.com/in/paulo-martins-531519239/" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="50" height="50" alt="LinkedIn 3D"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/paulodiney/" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="50" height="50" alt="Instagram 3D"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:seu_email@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="50" height="50" alt="Gmail 3D"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/PauloDiney" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/94/github.png" width="50" height="50" alt="GitHub 3D"/>
-  </a>
+
   
 </div>
 
