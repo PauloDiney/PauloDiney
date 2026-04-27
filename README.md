@@ -221,13 +221,7 @@ Desenvolvendo APIs robustas com PHP/Laravel e explorando Node.js
 
 ---
 
-<div align="center">
-  
-  ## 💭 Frase do Dia
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  
-</div>
+
 
 ---
 
